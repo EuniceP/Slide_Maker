@@ -11,10 +11,9 @@ you can show off to your friends and family.
 ```
 ####Features
 ```
-1. Login/password authentication
-2. Upload/remove document/image files (.html, .jpg, .png)
-3. Allow users to sequence the files via drag & drop
-4. Image files will be shown in thumbnails from selected directory
+1. Upload/remove document/image files (.html, .jpg, .png)
+2. Allow users to sequence the files via drag & drop
+3. Image files will be shown in thumbnails from selected directory
 4. Screen will be split into two part - one play screen and the other 
    showing available files to sequence 
 5. Allow to save slide objects containing sequenced file names 
